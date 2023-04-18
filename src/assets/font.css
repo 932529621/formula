@@ -1,0 +1,24 @@
+@font-face {
+    /*给字体命名*/
+    font-family: 'Heavy';
+    /*引入字体文件*/
+    src: url('./RussoOne-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    /*给字体命名*/
+    font-family: 'Medium';
+    /*引入字体文件*/
+    src: url('./BreeSerif-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    /*给字体命名*/
+    font-family: 'Lobster';
+    /*引入字体文件*/
+    src: url('./Lobster-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
